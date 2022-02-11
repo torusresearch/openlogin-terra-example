@@ -1,2 +1,5 @@
-# openlogin-terra-example
-openlogin X terra example
+## App start steps:
+
+```npm i```
+
+```npm start```
